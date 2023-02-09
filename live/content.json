@@ -1,0 +1,20 @@
+{
+  "onderwerpen": [
+    {"oid": 1, "titel": "Binnentreden ihram"},
+    {"oid": 2, "titel": "Tawaaf"},
+    {"oid": 3, "titel": "Sa'i"}
+  ],
+
+  "content": [
+    {"oid": 1, "style": "dua", "titel": "Zeg hardop:", "arabisch": "لاَ إِلَهَ إِلاَّ اللَّهُ","uitspraak":"laa ilaha illAllah", "betekenis": "Niks & Niemand heeft recht op aanbidding behalve Allah"},
+    {"oid": 1, "style": "todo", "titel": "Binnentreden ihram todos", "todos" : ["verricht 2 rakaat", "loop 7 tawaaf", "verricht nogmaals 2 rakaat bij makam ibrahim"] },
+    {"oid": 1, "style": "dua", "titel": "Binnentreden ihram", "arabisch": "لاَ إِلَهَ إِلاَّ اللَّهُ", "uitspraak":"laa ilaha illAllah", "betekenis": "Niks & Niemand heeft recht op aanbidding behalve Allah", "audio" : "labayk"},
+
+    {"oid": 2, "style": "todo", "titel": "Binnentreden ihram todos", "todos" : ["verricht 2 rakaat", "loop 7 tawaaf", "verricht nogmaals 2 rakaat bij makam ibrahim"] },
+    {"oid": 2, "style": "dua", "titel": "Binnentreden ihram", "arabisch": "لاَ إِلَهَ إِلاَّ اللَّهُ", "uitspraak":"laa ilaha illAllah", "betekenis": "Niks & Niemand heeft recht op aanbidding behalve Allah"},
+    
+    {"oid": 3, "style": "img", "titel": "Hier komt foto:", "img": "verboden.png", "uitleg": "Het is verboden om jacht op dieren te doen."},
+    {"oid": 3, "style": "dua", "titel": "Sa'i zeg:", "arabisch": "لاَ إِلَهَ إِلاَّ اللَّهُ", "uitspraak":"laa ilaha illAllah", "betekenis": "Niks & Niemand heeft recht op aanbidding behalve Allah", "audio" : "labayk" }
+    
+  ]
+}
