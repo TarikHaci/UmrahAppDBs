@@ -1,0 +1,82 @@
+{
+    "version": "1.0.0",
+    "name": "Oemrah App Data",
+    "description": "JSON Data waarin in 'categories' de onderwerpen als menutitle en ID worden meegegeven, en in 'pages' de paginas van elke onderwerp verbonden middels ID.",
+    "categories": [
+        {
+            "cId": 1,
+            "title": "Test ihram"
+        },
+        {
+            "cId": 2,
+            "title": "Test Tawaaf"
+        },
+        {
+            "cId": 3,
+            "title": "Sa'i"
+        }
+    ],
+    "pages": [
+        {
+            "cId": 1,
+            "type": "dua",
+            "title": "Test Zeg luidt:",
+            "arabic": "لاَ إِلَهَ إِلاَّ اللَّهُ",
+            "transliteration": "laa ilaha illAllah",
+            "translation": "Niks & Niemand heeft recht op aanbidding behalve Allah"
+        },
+        {
+            "cId": 1,
+            "type": "todo",
+            "title": "Test Binnentreden ihram todos",
+            "todos": [
+                "verricht 2 rakaat",
+                "loop 7 tawaaf",
+                "verricht nogmaals 2 rakaat bij makam ibrahim"
+            ]
+        },
+        {
+            "cId": 1,
+            "type": "dua",
+            "title": "Binnentreden ihram",
+            "arabic": "لاَ إِلَهَ إِلاَّ اللَّهُ",
+            "transliteration": "laa ilaha illAllah",
+            "translation": "Niks & Niemand heeft recht op aanbidding behalve Allah",
+            "audio": "labayk"
+        },
+        {
+            "cId": 2,
+            "type": "todo",
+            "title": "Binnentreden ihram todos",
+            "todos": [
+                "verricht 2 rakaat",
+                "loop 7 tawaaf",
+                "verricht nogmaals 2 rakaat bij makam ibrahim"
+            ]
+        },
+        {
+            "cId": 2,
+            "type": "dua",
+            "title": "Binnentreden ihram",
+            "arabic": "لاَ إِلَهَ إِلاَّ اللَّهُ",
+            "transliteration": "laa ilaha illAllah",
+            "translation": "Niks & Niemand heeft recht op aanbidding behalve Allah"
+        },
+        {
+            "cId": 3,
+            "type": "img",
+            "title": "Hier komt fotoooo:",
+            "imgFileName": "verboden.png",
+            "description": "Het is verboden om jacht op dieren te doen."
+        },
+        {
+            "cId": 3,
+            "type": "dua",
+            "title": "Test Sa'i zeg:",
+            "arabic": "لاَ إِلَهَ إِلاَّ اللَّهُ",
+            "transliteration": "laa ilaha illAllah",
+            "translation": "Niks & Niemand heeft recht op aanbidding behalve Allah",
+            "audio": "labayk"
+        }
+    ]
+}
