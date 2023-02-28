@@ -1,5 +1,5 @@
 {
-    "version": "1.0.0",
+    "version": "1.0.1",
     "name": "Oemrah App Data",
     "description": "JSON Data waarin in 'categories' de onderwerpen als menutitle en ID worden meegegeven, en in 'pages' de paginas van elke onderwerp verbonden middels ID.",
     "categories": [
